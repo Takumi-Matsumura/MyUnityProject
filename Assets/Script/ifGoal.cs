@@ -7,6 +7,7 @@ public class ifGoal : MonoBehaviour
 {
     
 
+
     private bool once = true;
 
     private void OnControllerColliderHit(ControllerColliderHit hit)
@@ -23,5 +24,7 @@ public class ifGoal : MonoBehaviour
             }
             
         }
+
+        
     }
 }
