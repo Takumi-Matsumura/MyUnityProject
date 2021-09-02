@@ -5,8 +5,7 @@ using UnityEngine;
 public class goal1 : MonoBehaviour
 {
     [SerializeField] GameObject anim;
-    [SerializeField] GameObject ring;
-    [SerializeField] GameObject nextring;
+   
     [SerializeField] GameObject redblock;
     [SerializeField] GameObject redblock2;
 
@@ -14,8 +13,7 @@ public class goal1 : MonoBehaviour
     {
         Debug.Log("Ç∑ÇËî≤ÇØÇΩÅI");
         anim.SetActive(true);
-        ring.SetActive(false);
-        nextring.SetActive(true);
+       
         redblock.SetActive(false);
         redblock2.SetActive(false);
     }
