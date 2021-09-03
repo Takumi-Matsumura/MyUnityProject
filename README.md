@@ -1,4 +1,3 @@
-# MyUnityProject
 # オリンピックをテーマとしたUnity作品
 ## ゲーム概要
 ### 作品名
